@@ -14,21 +14,21 @@
 ![image](https://user-images.githubusercontent.com/105329532/177216299-180d5cfa-63fa-446a-b143-2bba4cbb9b58.png)
 ---
 #### Outcomes Based on Goals: Analysis & Challenge
-##### The main challenge for the "Outcomes Based on Goals" worksheet was to create an organized table with all the proper financial goal ranges and filtering the formula for not only the ranges and the outcome type, but the subcategory, "plays". My challenge was to figure out why my graph was not replicating the demo graph presented in the Module challenge. I figured out that because I was missing a goal range within my table, I was also missing a data point in my graph. These important features heavily impacted the corresponding percentages in the table. By fixing them, my graph more accurately represented the targeted data for analysis.
+##### The main challenge for the "Outcomes Based on Goals" worksheet was to create an organized table with all the proper financial goal ranges and filtering the formula for not only the ranges and the outcome type, but the subcategory, "plays". My challenge was to figure out why my graph was not replicating the demo graph presented in the Module challenge. I figured out that because I was missing a range within the goal column of my table, I was also missing a data point in my graph. These important features heavily impacted the corresponding percentages in the table. By fixing them, my graph more accurately represented the targeted data for a complete analysis.
 ---
 ![image](https://user-images.githubusercontent.com/105329532/177216335-68605231-8bb0-46f4-bf7d-aad2d2d9755e.png)
 ---
 ## Results
 #### Theater Outcomes by Launch Date Conclusion
-* ##### Conclusion 1: The highest amount of successful theater outcomes was launched in the month of May and June. This indicated as the highest data point on the graph.
+* ##### Conclusion 1: The highest amount of successful theater outcomes was launched in the month of May and June out of the whole year. This was indicated as the highest data point on the graph. 
 ---
-* ##### Conclusion 2: There was no value input that indicated a cancelation occurred within the month of October. This is reflected as a break in the line graph represented for cancelations during the month of October. 
+* ##### Conclusion 2: There was no data value input that indicated a cancelation occurred within the month of October. This is reflected as a break in the line graph represented for cancelations during the month of October. This may call for more data needed to confirm a value for that month. 
 ---
 ![image](https://user-images.githubusercontent.com/105329532/177216654-f46a1274-6f29-4bc2-a6cf-b25be015c5e4.png)
 ---
 #### Outcomes Based on Goals Conclusion
-* ##### Conclusion 1: The data for the percentages of successful and failed plays are shown to an direct inverse relationship of one another within each specific financial goal range. The data points for successful and failed plays mirror one another on the graph. If the success percentage is high, then the failure recorded is low or vice versa. 
+* ##### Conclusion 1: The data for the percentages of successful and failed plays are shown to have a direct inverse relationship of one another within each specific financial goal range. The data points for successful and failed plays have an opposite effect on one another on the graph. If the success percentage rate is high, then the failure recorded is low or vice versa. This shows that more success within a financial goal range was also met with less failures; more failures, less success. 
 ---
-* ##### Conclusion 2: There were no canceled plays for any of the financial goal value ranges. This is presented on the graph as a straight line along the x-axis because there were 0 cancelations. This reveals that plays were either successful or failed with in their financial goal.
+* ##### Conclusion 2: There were no canceled plays for any of the financial goal value ranges. This is presented on the graph as a straight line along the x-axis because there were 0% cancelations. This reveals that plays were either successful or failed within their financial goal.
 ---
 ![image](https://user-images.githubusercontent.com/105329532/177216469-9d2249dc-15ff-4c38-aa8c-4c2790402141.png)
