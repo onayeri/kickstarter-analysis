@@ -2,11 +2,15 @@
 ### Performing analysis on kickstarter data to uncover trends
 ---
 ## Overveiw of Project 
+---
 The purpose of the Kickstarter assignment was to serve as an introduction to the tools untilized in excel. Through this assignment, data was extracted from a dataset into a pivot table which allowed a general overveiw of the filtered data to be presented in a visual graph. The Kickstarter worksheet consisted of data regarding the film/television shows/videos along with the outcome status, the financial goal amount, the pledged amount and  the other details associated with each film category. The details of the Kickstarter dataset was explored by creating a pivot table and graph for the "Theatre Outcomes Based on Launch" and "Outcomes Based on Goals". This allowed for a more filtered inspection of subcategories within the data and detailed analysis of the relationship between outcome status and the financial goal amount.
 ---
-## Analysis and Challenges 
+## Analysis and Challenges
+---
 #### Theater Outcomes By Launch Date: Analysis & Challenge 
-In order to perform the analysis for the "Theater Outcomes By Launch Date" worksheet, the launch date column neeeded to be converted from the unix time stamp to the standard date format: mm/dd/yyyy. Once this was fixed, my challenge was to create a column for the month name for each of those dates. I did this by creating a "Month" column with the following formula: =MONTH(serial_number). This allowed me to isolate the months into a colunm, but it was still in numerical format. To convert the numerical month into text, I tried changing the format using the format tool on excel. I proceeded to search the specific formula for converting a numerical month date to the name in text. I found the formula =TEXT(serial_number*29, "mmm") on the site: [OficeExtend] (https://www.extendoffice.com/documents/excel/5146-excel-convert-1-12-to-month.html). This allowed me to get the abbrevieted name for each month and create a column titled "month name" and continue to properly filter my pivot table and analyze the number of outcomes that were successful, failed and canceled specifically for the category, "Theater" by month name.
+In order to perform the analysis for the "Theater Outcomes By Launch Date" worksheet, the launch date column neeeded to be converted from the unix time stamp to the standard date format: mm/dd/yyyy. Once this was fixed, my challenge was to create a column for the month name for each of those dates. I did this by creating a "Month" column with the following formula: =MONTH(serial_number). This allowed me to isolate the months into a colunm, but it was still in numerical format. To convert the numerical month into text, I tried changing the format using the format tool on excel. I proceeded to search the specific formula for converting a numerical month date to the name in text. 
+---
+I found the formula =TEXT(serial_number*29, "mmm") on the site: [OfficeExtend] (https://www.extendoffice.com/documents/excel/5146-excel-convert-1-12-to-month.html). This allowed me to get the abbreviated name for each month and create a column titled "month name" and continue to properly filter my pivot table and analyze the number of outcomes that were successful, failed and canceled specifically for the category, "Theater" by month name.
 ---
 ![image](https://user-images.githubusercontent.com/105329532/177216255-bbb92d07-f701-443f-a8ae-54dd0ee1b4cd.png)
 ![image](https://user-images.githubusercontent.com/105329532/177216299-180d5cfa-63fa-446a-b143-2bba4cbb9b58.png)
@@ -24,7 +28,7 @@ The main challenge for the "Outcomes Based on Goals" worksheet was to create an 
 ---
 ![image](https://user-images.githubusercontent.com/105329532/177216654-f46a1274-6f29-4bc2-a6cf-b25be015c5e4.png)
 ---
-####Outcomes Based on Goals Conclusion
+#### Outcomes Based on Goals Conclusion
 * Conclusion 1: The data for the percentages of successful and faild plays are shown to an direct inverse relationship  of one another within each specific financial goal range. The data points for successful and failed plays mirror one another on the graph. If the success percentage is high, then the failure recorded is low or vice versa. 
 ---
 * Conclusion 2: There were no canceled plays for any of the financial goal value ranges. This is presented on the graph as a straight line along the x-axis because there were 0 cancelations. This reveals that plays were either successful or failed with in there financial goal.
