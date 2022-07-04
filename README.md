@@ -1,5 +1,5 @@
 # kickstarter-analysis
-###Performing analysis on kickstarter data to uncover trends
+### Performing analysis on kickstarter data to uncover trends
 ---
 ## Overveiw of Project 
 The purpose of the Kickstarter assignment was to serve as an introduction to the tools untilized in excel. Through this assignment, data was extracted from a dataset into a pivot table which allowed a general overveiw of the filtered data to be presented in a visual graph. The Kickstarter worksheet consisted of data regarding the film/television shows/videos along with the outcome status, the financial goal amount, the pledged amount and  the other details associated with each film category. The details of the Kickstarter dataset was explored by creating a pivot table and graph for the "Theatre Outcomes Based on Launch" and "Outcomes Based on Goals". This allowed for a more filtered inspection of subcategories within the data and detailed analysis of the relationship between outcome status and the financial goal amount.
@@ -16,15 +16,17 @@ The main challenge for the "Outcomes Based on Goals" worksheet was to create an 
 ---
 ![image](https://user-images.githubusercontent.com/105329532/177216335-68605231-8bb0-46f4-bf7d-aad2d2d9755e.png)
 ---
-##Results
+## Results
 #### Theater Outcomes by Launch Date Conclusion
-*Conclusion 1: The highest amount of successful theater outcomes were launched in the month of May and June. This indicated as the highest data point on the graph.
-*Conclusion 2: There was no value input that indicated a cancelation occured within the month of October. This is reflected as a break in the line graph represented for cancelations during the month of October. 
+* Conclusion 1: The highest amount of successful theater outcomes were launched in the month of May and June. This indicated as the highest data point on the graph.
+---
+* Conclusion 2: There was no value input that indicated a cancelation occured within the month of October. This is reflected as a break in the line graph represented for cancelations during the month of October. 
 ---
 ![image](https://user-images.githubusercontent.com/105329532/177216654-f46a1274-6f29-4bc2-a6cf-b25be015c5e4.png)
 ---
 ####Outcomes Based on Goals Conclusion
-*Conclusion 1: The data for the percentages of successful and faild plays are shown to an direct inverse relationship  of one another within each specific financial goal range. The data points for successful and failed plays mirror one another on the graph. If the success percentage is high, then the failure recorded is low or vice versa. 
-*Conclusion 2: There were no canceled plays for any of the financial goal value ranges. This is presented on the graph as a straight line along the x-axis because there were 0 cancelations. This reveals that plays were either successful or failed with in there financial goal.
+* Conclusion 1: The data for the percentages of successful and faild plays are shown to an direct inverse relationship  of one another within each specific financial goal range. The data points for successful and failed plays mirror one another on the graph. If the success percentage is high, then the failure recorded is low or vice versa. 
+---
+* Conclusion 2: There were no canceled plays for any of the financial goal value ranges. This is presented on the graph as a straight line along the x-axis because there were 0 cancelations. This reveals that plays were either successful or failed with in there financial goal.
 ---
 ![image](https://user-images.githubusercontent.com/105329532/177216469-9d2249dc-15ff-4c38-aa8c-4c2790402141.png)
