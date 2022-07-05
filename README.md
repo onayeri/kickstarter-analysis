@@ -2,6 +2,7 @@
 #### Performing analysis on kickstarter data to uncover trends
 ---
 ## Overview of Project 
+#### Purpose of Kickstarter Assignment
 ##### The purpose of the Kickstarter assignment was to serve as an introduction to the tools untilized in excel. Through this assignment, data was extracted from a dataset into a pivot table which allowed a general overview of the filtered data to be presented in a visual graph. The Kickstarter worksheet consisted of data regarding the film/television shows/videos along with the outcome status, the financial goal amount, the pledged amount and the other details associated with each film category. The details of the Kickstarter dataset were explored by creating a pivot table and graph for the "Theatre Outcomes Based on Launch" and "Outcomes Based on Goals". This allowed for a more filtered inspection of subcategories within the data and detailed analysis of the relationship between outcome status and the financial goal amount.
 ---
 ## Analysis and Challenges
