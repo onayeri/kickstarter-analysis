@@ -9,6 +9,7 @@
 #### Theater Outcomes By Launch Date: Analysis & Challenge 
 ##### In order to perform the analysis for the "Theater Outcomes By Launch Date" worksheet, the launch date column needed to be converted from the Unix time stamp to the standard date format: mm/dd/yyyy. Once this was fixed, my challenge was to create a column for the month name for each of those dates. I did this by creating a "Month" column with the following formula: =MONTH(serial_number). This allowed me to isolate the months into a column, but it was still in numerical format. To convert the numerical month into text, I tried changing the format using the format tool on excel. I proceeded to search the specific formula for converting a numerical month date to the name in text. 
 ---
+#### Formula and Resources
 ##### I found the formula =TEXT(serial_number*29, "mmm") on the site: [OfficeExtend] (https://www.extendoffice.com/documents/excel/5146-excel-convert-1-12-to-month.html). This allowed me to get the abbreviated name for each month and create a column titled "month name" and continue to properly filter my pivot table and analyze the number of outcomes that were successful, failed and canceled specifically for the category, "Theater" by month name.
 ---
 ![image](https://user-images.githubusercontent.com/105329532/177216255-bbb92d07-f701-443f-a8ae-54dd0ee1b4cd.png)
@@ -36,5 +37,5 @@
 ---
 * ##### **Limitations:** The dataset shows that as the financial goal range increases, the total amount of films decreases. Because there are less total projects, some of the ranges are largely skewed when in reality there may have only been two movies within one financial goal range. This is not a lot of data collected and by only reading the graph, one would not know that 1 project was successful and one failed; they would only know 50% were successful and 50% failed. This does not tell the full story of the data.
 ---
-* ##### **Recommendation:** It would be beneficial to create an additional graph that shows the amount of overall projects in relation to the financial project goals, so that it is made clear that there is more data available for some ranges more than others.
+* ##### **Recommendation:** It would be beneficial to create an additional graph that shows the amount of overall projects in relation to the financial project goals, so that it is made clear that there is more data available for some ranges than others.
 ![image](https://user-images.githubusercontent.com/105329532/177216469-9d2249dc-15ff-4c38-aa8c-4c2790402141.png)
