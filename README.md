@@ -24,11 +24,16 @@
 ---
 * ##### Conclusion 2: There was no data value input that indicated a cancelation occurred within the month of October. This is reflected as a break in the line graph represented for cancelations during the month of October. This may call for more data needed to confirm a value for that month. 
 ---
+* ##### Limitations: The limitations of this dataset is that it only contains data from 2017 - 2009 and 1970. This only allows for a couple years worth of data and not all of the years have data for the outcomes in relation to the amount of success and failures of theater productions over the years which limits the data set even further.
+---
+* ##### Reccomendation: It would be beneficial to have a table and graph with the numbers of success and failures by year instead of month to evaluate the data on a larger time scale. This will allow the analyst to see where there are gaps in the data and analyze the outcomes of theater over the years to pinpoint where the majority of the data is coming from. 
+---
 ![image](https://user-images.githubusercontent.com/105329532/177216654-f46a1274-6f29-4bc2-a6cf-b25be015c5e4.png)
 ---
 #### Outcomes Based on Goals Conclusion
-* ##### Conclusion 1: The data for the percentages of successful and failed plays are shown to have a direct inverse relationship of one another within each specific financial goal range. The data points for successful and failed plays have an opposite effect on one another on the graph. If the success percentage rate is high, then the failure recorded is low or vice versa. This shows that more success within a financial goal range was also met with less failures; more failures, less success. 
+* ##### Conclusion 1: The data for the percentages of successful and failed plays are shown to have a direct inverse relationship of one another within each specific financial goal range. The data points for successful and failed plays have an opposite effect on one another on the graph. If the success percentage rate is high, then the failure recorded is low or vice versa. This shows that more success within a financial goal range was also met with less failures; more failures, less success. There were no canceled plays for any of the financial goal value ranges. This is presented on the graph as a straight line along the x-axis because there were 0% cancelations. This reveals that plays were either successful or failed within their financial goal.
 ---
-* ##### Conclusion 2: There were no canceled plays for any of the financial goal value ranges. This is presented on the graph as a straight line along the x-axis because there were 0% cancelations. This reveals that plays were either successful or failed within their financial goal.
+* ##### Limitations: The dataset shows that as the financial goal range increases, the total amount of films decreases. Because there are less total projects, some of the ranges are largely skewed when in reality there may have only been two movies within one financial goal range. This is not a lot of data collected and by only reading the graph, one would not know that 1 project was successful and one failed; they would only know 50% were successful and 50% failed. This does not tell the full story of the data.
 ---
+* ##### Reccomendation: It would be beneficial to create an additional graph that shows the amount of overall projects in relation to the financial project goals, so that it is made clear that there is more data available for some ranges more than others.
 ![image](https://user-images.githubusercontent.com/105329532/177216469-9d2249dc-15ff-4c38-aa8c-4c2790402141.png)
