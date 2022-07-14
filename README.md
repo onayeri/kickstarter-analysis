@@ -39,3 +39,4 @@
 ---
 * ##### **Recommendation:** It would be beneficial to create an additional graph that shows the amount of overall projects in relation to the financial project goals, so that it is made clear that there is more data available for some ranges than others.
 ![image](https://user-images.githubusercontent.com/105329532/177216469-9d2249dc-15ff-4c38-aa8c-4c2790402141.png)
+---
